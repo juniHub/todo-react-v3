@@ -26,26 +26,26 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/juniHub/todo-localstorage-v2
+  <a href="https://github.com/juniHub/todo-react-v3
 ">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Juni Todo List</h3>
+  <h3 align="center">Juni Todo List V3</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/juniHub/todo-localstorage-v2
+    <a href="https://github.com/juniHub/todo-react-v3
 "><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://juni-todo-list.netlify.app/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/juniHub/todo-localstorage-v2
+    <a href="https://github.com/juniHub/todo-react-v3
 /issues">Report Bug</a>
     ·
-    <a href="https://github.com/juniHub/todo-localstorage-v2
+    <a href="https://github.com/juniHub/todo-react-v3
 /issues">Request Feature</a>
   </p>
 </p>
@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Juni-todo-screenshot](https://res.cloudinary.com/dafolrlpj/image/upload/v1627304397/gallery/xkoirg5oljvhhlsikgcx.png)
+![Juni-todo-screenshot](todo-v3.gif)
 
 
 
@@ -112,7 +112,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/juniHub/todo-localstorage-v2.git
+   git clone https://github.com/juniHub/todo-react-v3.git
    ```
    
 2. Install NPM packages
@@ -135,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://junitiennguyen.g
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/juniHub/todo-localstorage-v2/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/juniHub/todo-react-v3/issues) for a list of proposed features (and known issues).
 
 
 
@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Juni Nguyen - [helloJuni](https://hellojuninguyen.netlify.app/)
 
-Project Link: [https://github.com/juniHub/todo-localstorage-v2](https://github.com/juniHub/todo-localstorage-v2)
+Project Link: [https://github.com/juniHub/todo-react-v3](https://github.com/juniHub/todo-react-v3)
 
 
 
