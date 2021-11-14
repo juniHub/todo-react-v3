@@ -34,8 +34,8 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  max-width: 100%;
-  min-width: 60%;
+  max-width: 60%;
+  min-width: 300px;
   height: 100%;
   margin: 2rem auto;
   background: #fef6e4 repeating-linear-gradient(white 0px, white 24px, teal 25px) center/cover no-repeat;
@@ -57,8 +57,8 @@ display: flex;
 align-items: center;
 justify-content: center;
 flex-wrap: wrap;
-margin: 1rem auto;
-width: 100%;
+margin: 1rem ;
+
 
 
 }
@@ -82,19 +82,14 @@ width: 100%;
   color: #000;
   text-align: center;
   height: 100%;
- 
   margin: 1rem auto;
-
   line-height: 25px;
-
   font-size: 19px;
   letter-spacing: 1px;
   word-spacing: 5px;
-  
   width: 300px;
   overflow: auto;
-  
-}
+  }
 
 
 .complete {
@@ -139,7 +134,13 @@ button {
 .btn-group {
   display: flex;
   justify-content: space-between;
-  
+
+}
+.btn-group > * {
+  flex: 1 1 49%;
+}
+.btn-group > * + * {
+  margin-left: 0.8rem;
 }
 
 .dark-light-mode{
